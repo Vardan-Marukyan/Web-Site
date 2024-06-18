@@ -4,9 +4,27 @@
 }
 
 .warper{
-    padding: 50px 50px;
-    background-color: red;
+    background-color: #EBF0FA;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.image-box-img{
+    width: 910px;
+    height: 456px;
+}
+
+.information_title{
+    font-size: 30px;
+    color: #1F4284;
+    font-weight: 500;
+    line-height: 48px;
+}
+
+.information_text{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    color: #727272;
 }
