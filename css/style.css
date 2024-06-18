@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.warper{
+    padding: 50px 50px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
